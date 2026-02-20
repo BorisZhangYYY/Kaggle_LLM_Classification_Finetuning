@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch # default version is CPU, to use GPU, run commands below:
+# pip uninstall torch torchvision torchaudio -y
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+transformers>=4.38.0
+accelerate>=1.1.0 # transformers dependency
+datasets
+ipykernel
