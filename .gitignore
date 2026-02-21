@@ -1,5 +1,9 @@
 Dataset/
+
 .venv/
 .ipynb_checkpoints/
+
+trained_model_*/
 results/
+
 submission.csv
